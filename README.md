@@ -24,6 +24,7 @@
 
 - 💻 &nbsp;
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 
 - 🌐 &nbsp;
