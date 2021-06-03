@@ -44,8 +44,6 @@
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  
-
 <br/>
 <!--
 **jsusvalle/jsusvalle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
