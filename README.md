@@ -30,6 +30,7 @@
 - 🌐 &nbsp;
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node)
   ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
+  ![Angular.js](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
   ![React.js](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Next.js](https://img.shields.io/badge/-Next-333333?style=flat&logo=nextjs)
   ![Graphql](https://img.shields.io/badge/-Graphql-333333?style=flat&logo=graphql)
